@@ -5,6 +5,7 @@ public class HelloWorld {
 
         System.out.println("Hello Wolrd");
         System.out.println("adding gitHub now");
+        System.out.println("Yay stuff is on github");
 
     }
 }
